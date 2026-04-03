@@ -4,8 +4,8 @@
    },
    "description": "Recherchez rapidement du texte en surbrillance sur Allociné en cliquant avec le bouton droit de la souris",
    "icons": {
-      "16": "allocine.png",
-      "48": "allocine.grand.png"
+      "16": "allocine_16.png",
+      "48": "allocine_48.png"
    },
    "manifest_version": 3,
    "name": "Rechercher-cliquer Droit-Click Allociné",
