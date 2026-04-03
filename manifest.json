@@ -1,6 +1,6 @@
 {
    "background": {
-      "service_worker": "background.js"
+      "service_worker": "allocine.js"
    },
    "description": "Recherchez rapidement du texte en surbrillance sur Allociné en cliquant avec le bouton droit de la souris",
    "icons": {
